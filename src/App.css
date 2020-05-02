@@ -142,89 +142,42 @@ footer p {
 
 /* ----- MEDIA QUERIES START ----- */
 
-@media (min-width: 280px) {
-  .ASquare {
-    width: 45px;
-    height: 45px;
-    margin: 7px;
-    font-size: small;
-  }
-  .BSquare {
-    width: 45px;
-    height: 45px;
-    margin: 7px;
-    font-size: small;
-  }
-  .CSquare {
-    width: 45px;
-    height: 45px;
-    margin: 7px;
-    font-size: small;
-  }
-  .DSquare {
-    width: 45px;
-    height: 45px;
-    margin: 7px;
-    font-size: small;
-  }
-  .ESquare {
-    width: 45px;
-    height: 45px;
-    margin: 7px;
-    font-size: small;
-  }
-  .brillant {
-    width: 45px;
-    height: 45px;
-    margin: 7px;
-    font-size: small;
-  }
-
-  footer {
-    height: 120px;
-  }
-
-  footer p {
-    font-size: 15px;
-  }
-}
-
 @media (min-width: 480px) {
   .ASquare {
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     margin: 7px;
-    font-size: small;
+    font-size: large;
   }
   .BSquare {
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     margin: 7px;
-    font-size: small;
+    font-size: large;
   }
   .CSquare {
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     margin: 7px;
-    font-size: small;
+    font-size: large;
   }
   .DSquare {
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     margin: 7px;
-    font-size: small;
+    font-size: large;
   }
   .ESquare {
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     margin: 7px;
-    font-size: small;
+    font-size: large;
   }
   .brillant {
-    width: 45px;
-    height: 45px;
+    width: 55px;
+    height: 55px;
     margin: 7px;
-    font-size: small;
+    font-size: large;
   }
 
   footer {
