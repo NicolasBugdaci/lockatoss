@@ -1,0 +1,115 @@
+.all-squares {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.R-squares {
+  display: flex;
+  flex-direction: column;
+}
+
+.ASquare {
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+  background: #914e52;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.7);
+  color: #fdfdfd;
+  text-align: center;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+}
+
+.BSquare {
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+  background: #58906d;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.7);
+  color: #fdfdfd;
+  text-align: center;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+}
+
+.CSquare {
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+  background: #83b0b2;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.7);
+  color: #fdfdfd;
+  text-align: center;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+}
+
+.DSquare {
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+  background: #d9c2ca;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.7);
+  color: #fdfdfd;
+  text-align: center;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+}
+
+.ESquare {
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+  background: #958479;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.7);
+  color: #fdfdfd;
+  text-align: center;
+  font-size: x-large;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+}
+
+.brillant {
+  width: 70px;
+  height: 70px;
+  margin: 10px;
+  outline-color: #2b4953;
+  border-radius: 6px;
+  box-shadow: 0 0 10px;
+  font-weight: bold;
+  text-align: center;
+  font-size: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.brillant {
+  color: #2b4953;
+  background-color: #2b4953; /* Disable if you want white blink*/
+  animation: blink 1s infinite;
+}
+
+@keyframes blink {
+  0% {
+  }
+  50% {
+    color: #fdfdfd;
+    background-color: #2b4953;
+  }
+}

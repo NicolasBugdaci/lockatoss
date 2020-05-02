@@ -1,0 +1,374 @@
+/* ---- CSS - SQUARES ----- */
+@import "squares.css";
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: "Jost", sans-serif !important;
+}
+
+body {
+  background-image: url("./img/cubes.png");
+}
+
+/* ----- HEADER START ----- */
+
+header {
+  background-color: #2b4953;
+  width: 100%;
+  margin-bottom: 10px;
+  padding: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+  color: #fdfdfd;
+}
+
+header h1 {
+  color: #fdfdfd;
+  font-size: xx-large;
+  margin-right: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+}
+
+.logo {
+  padding-left: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+}
+
+/* ----- HEADER END ----- */
+
+/* ----- FORM START ----- */
+
+label {
+  display: none !important;
+}
+
+.five {
+  margin: 0px;
+  padding: 0px;
+  font-size: large;
+}
+
+.form-group {
+  color: #2b4953 !important;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.position-text {
+  margin: 10px;
+  color: #2b4953 !important;
+}
+
+/* ----- FORM END ----- */
+
+/* ----- BUTTON START ----- */
+
+.btn-dark,
+.btn-dark:hover,
+.btn-dark:active,
+.btn-dark:visited,
+.btn-dark:focus {
+  background-color: #2b4953;
+  border-color: #2b4953;
+}
+
+.button {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin: 10px;
+}
+
+/* ----- BUTTON END ----- */
+
+/* ----- FOOTER START ----- */
+
+footer {
+  margin: 0px !important;
+  padding: 0px !important;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-items: center;
+  align-content: center;
+}
+
+footer p {
+  color: rgb(150, 150, 150);
+  text-decoration: none !important;
+  margin: 0px !important;
+  padding: 0px !important;
+}
+footer :hover {
+  text-decoration: none;
+}
+
+footer a {
+  color: #2b4953;
+}
+footer a:hover {
+  color: #20ab89;
+  text-decoration: none;
+}
+
+footer p {
+  color: rgb(150, 150, 150);
+  text-decoration: none;
+  font-size: 13px;
+}
+
+/* ----- FOOTER END ----- */
+
+/* ----- MEDIA QUERIES START ----- */
+
+@media (min-width: 280px) {
+  .ASquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .BSquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .CSquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .DSquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .ESquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .brillant {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+
+  footer {
+    height: 120px;
+  }
+
+  footer p {
+    font-size: 15px;
+  }
+}
+
+@media (min-width: 480px) {
+  .ASquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .BSquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .CSquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .DSquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .ESquare {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+  .brillant {
+    width: 45px;
+    height: 45px;
+    margin: 7px;
+    font-size: small;
+  }
+
+  footer {
+    height: 120px;
+  }
+
+  footer p {
+    font-size: 12px;
+  }
+}
+
+@media (min-width: 768px) {
+  .ASquare {
+    width: 62px;
+    height: 62px;
+    margin: 8px;
+    font-size: large;
+  }
+  .BSquare {
+    width: 62px;
+    height: 62px;
+    margin: 8px;
+    font-size: large;
+  }
+  .CSquare {
+    width: 62px;
+    height: 62px;
+    margin: 8px;
+    font-size: large;
+  }
+  .DSquare {
+    width: 62px;
+    height: 62px;
+    margin: 8px;
+    font-size: large;
+  }
+  .ESquare {
+    width: 62px;
+    height: 62px;
+    margin: 8px;
+    font-size: large;
+  }
+  .brillant {
+    width: 62px;
+    height: 62px;
+    margin: 8px;
+    font-size: large;
+  }
+
+  footer {
+    height: 100px;
+  }
+
+  footer p {
+    font-size: 13px;
+  }
+}
+
+@media (min-width: 992px) {
+  .ASquare {
+    width: 65px;
+    height: 65px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .BSquare {
+    width: 65px;
+    height: 65px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .CSquare {
+    width: 65px;
+    height: 65px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .DSquare {
+    width: 65px;
+    height: 65px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .ESquare {
+    width: 65px;
+    height: 65px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .brillant {
+    width: 65px;
+    height: 65px;
+    margin: 10px;
+    font-size: x-large;
+  }
+
+  footer {
+    height: 100px;
+  }
+
+  footer p {
+    font-size: 13px;
+  }
+}
+@media (min-width: 1200px) {
+  .ASquare {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .BSquare {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .CSquare {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .DSquare {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .ESquare {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: x-large;
+  }
+  .brillant {
+    width: 80px;
+    height: 80px;
+    margin: 10px;
+    font-size: x-large;
+  }
+
+  footer {
+    height: 40px;
+  }
+}
+
+/* ----- MEDIA QUERIES END ----- */
