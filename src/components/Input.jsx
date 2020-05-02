@@ -21,7 +21,7 @@ const Input = ({ setId }) => {
   return (
     <div className="form">
       <p className="five">Tapez les cinq caractères de votre ID:</p>
-      <div className="form-group col-4">
+      <div className="form-group .col-sm">
         <label htmlFor="formGroupExampleInput"></label>
 
         <form className="sendID" onSubmit={handleSubmit}>
