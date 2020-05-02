@@ -144,40 +144,40 @@ footer p {
 
 @media (min-width: 280px) {
   .ASquare {
-    width: 43px;
-    height: 43px;
+    width: 45px;
+    height: 45px;
     margin: 7px;
-    font-size: small;
+    font-size: medium;
   }
   .BSquare {
-    width: 43px;
-    height: 43px;
+    width: 45px;
+    height: 45px;
     margin: 7px;
-    font-size: small;
+    font-size: medium;
   }
   .CSquare {
-    width: 43px;
-    height: 43px;
+    width: 45px;
+    height: 45px;
     margin: 7px;
-    font-size: small;
+    font-size: medium;
   }
   .DSquare {
-    width: 43px;
-    height: 43px;
+    width: 45px;
+    height: 45px;
     margin: 7px;
-    font-size: small;
+    font-size: medium;
   }
   .ESquare {
-    width: 43px;
-    height: 43px;
+    width: 45px;
+    height: 45px;
     margin: 7px;
-    font-size: small;
+    font-size: medium;
   }
   .brillant {
-    width: 43px;
-    height: 43px;
+    width: 45px;
+    height: 45px;
     margin: 7px;
-    font-size: small;
+    font-size: medium;
   }
 
   footer {
