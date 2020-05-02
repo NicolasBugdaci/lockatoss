@@ -5,7 +5,14 @@ function Footer() {
   return (
     <footer>
       <p>
-        Nicolas Bugdaci pour Stockoss
+        Nicolas Bugdaci pour{" "}
+        <a
+          href={"https://stockoss.com"}
+          rel="noopener noreferrer"
+          target="_blank"
+        >
+          Stockoss
+        </a>
         <br />
         <a
           href={"https://github.com/NicolasBugdaci"}
