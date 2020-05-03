@@ -120,6 +120,7 @@ footer p {
   margin: 0px !important;
   padding: 0px !important;
 }
+
 footer :hover {
   text-decoration: none;
 }
@@ -127,6 +128,7 @@ footer :hover {
 footer a {
   color: #2b4953;
 }
+
 footer a:hover {
   color: #20ab89;
   text-decoration: none;
@@ -149,30 +151,35 @@ footer p {
     margin: 7px;
     font-size: x-large;
   }
+
   .BSquare {
     width: 60px;
     height: 60px;
     margin: 7px;
     font-size: x-large;
   }
+
   .CSquare {
     width: 60px;
     height: 60px;
     margin: 7px;
     font-size: x-large;
   }
+
   .DSquare {
     width: 60px;
     height: 60px;
     margin: 7px;
     font-size: x-large;
   }
+
   .ESquare {
     width: 60px;
     height: 60px;
     margin: 7px;
     font-size: x-large;
   }
+
   .brillant {
     width: 60px;
     height: 60px;
@@ -243,30 +250,35 @@ footer p {
     margin: 7px;
     font-size: xx-large;
   }
+
   .BSquare {
     width: 65px;
     height: 65px;
     margin: 7px;
     font-size: xx-large;
   }
+
   .CSquare {
     width: 65px;
     height: 65px;
     margin: 7px;
     font-size: xx-large;
   }
+
   .DSquare {
     width: 65px;
     height: 65px;
     margin: 7px;
     font-size: xx-large;
   }
+
   .ESquare {
     width: 65px;
     height: 65px;
     margin: 7px;
     font-size: xx-large;
   }
+
   .brillant {
     width: 65px;
     height: 65px;
@@ -290,30 +302,35 @@ footer p {
     margin: 10px;
     font-size: xx-large;
   }
+
   .BSquare {
     width: 65px;
     height: 65px;
     margin: 10px;
     font-size: xx-large;
   }
+
   .CSquare {
     width: 65px;
     height: 65px;
     margin: 10px;
     font-size: xx-large;
   }
+
   .DSquare {
     width: 65px;
     height: 65px;
     margin: 10px;
     font-size: xx-large;
   }
+
   .ESquare {
     width: 65px;
     height: 65px;
     margin: 10px;
     font-size: xx-large;
   }
+
   .brillant {
     width: 65px;
     height: 65px;
@@ -329,46 +346,52 @@ footer p {
     font-size: 13px;
   }
 }
+
 @media (min-width: 1200px) {
   .ASquare {
     width: 70px;
     height: 70px;
-    margin: 10px;
+    margin: 08px;
     font-size: xx-large;
   }
+
   .BSquare {
     width: 70px;
     height: 70px;
-    margin: 10px;
+    margin: 08px;
     font-size: xx-large;
   }
+
   .CSquare {
     width: 70px;
     height: 70px;
-    margin: 10px;
+    margin: 08px;
     font-size: xx-large;
   }
+
   .DSquare {
     width: 70px;
     height: 70px;
-    margin: 10px;
+    margin: 08px;
     font-size: xx-large;
   }
+
   .ESquare {
     width: 70px;
     height: 70px;
-    margin: 10px;
+    margin: 08px;
     font-size: xx-large;
   }
+
   .brillant {
     width: 70px;
     height: 70px;
-    margin: 10px;
+    margin: 08px;
     font-size: xx-large;
   }
 
   footer {
-    height: 100px;
+    height: 80px;
   }
 
   footer p {
