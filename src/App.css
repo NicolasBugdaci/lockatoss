@@ -331,44 +331,48 @@ footer p {
 }
 @media (min-width: 1200px) {
   .ASquare {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin: 10px;
     font-size: xx-large;
   }
   .BSquare {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin: 10px;
     font-size: xx-large;
   }
   .CSquare {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin: 10px;
     font-size: xx-large;
   }
   .DSquare {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin: 10px;
     font-size: xx-large;
   }
   .ESquare {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin: 10px;
     font-size: xx-large;
   }
   .brillant {
-    width: 80px;
-    height: 80px;
+    width: 70px;
+    height: 70px;
     margin: 10px;
     font-size: xx-large;
   }
 
   footer {
-    height: 40px;
+    height: 100px;
+  }
+
+  footer p {
+    font-size: 13px;
   }
 }
 
